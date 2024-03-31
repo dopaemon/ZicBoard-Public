@@ -27113,7 +27113,7 @@
             "div",
             { className: "v2board-copyright" },
             window.settings.title ? window.settings.title : "ZicBoard",
-            " v1.7.5"
+            " v1.8.0"
           )
         );
       }
