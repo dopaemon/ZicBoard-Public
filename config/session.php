@@ -1,73 +1,199 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-pZsjf7A6AS/9GRK8Bac2
+<?php
+
+use Illuminate\Support\Str;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Session Driver
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default session "driver" that will be used on
+    | requests. By default, we will use the lightweight native driver but
+    | you may specify any of the other wonderful drivers provided here.
+    |
+    | Supported: "file", "cookie", "database", "apc",
+    |            "memcached", "redis", "dynamodb", "array"
+    |
+    */
+
+    'driver' => env('SESSION_DRIVER', 'file'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Lifetime
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify the number of minutes that you wish the session
+    | to be allowed to remain idle before it expires. If you want them
+    | to immediately expire on the browser closing, set that option.
+    |
+    */
+
+    'lifetime' => env('SESSION_LIFETIME', 120),
+
+    'expire_on_close' => false,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Encryption
+    |--------------------------------------------------------------------------
+    |
+    | This option allows you to easily specify that all of your session data
+    | should be encrypted before it is stored. All encryption will be run
+    | automatically by Laravel and you can use the Session like normal.
+    |
+    */
+
+    'encrypt' => false,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session File Location
+    |--------------------------------------------------------------------------
+    |
+    | When using the native session driver, we need a location where session
+    | files may be stored. A default has been set for you but a different
+    | location may be specified. This is only needed for file sessions.
+    |
+    */
+
+    'files' => storage_path('framework/sessions'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Database Connection
+    |--------------------------------------------------------------------------
+    |
+    | When using the "database" or "redis" session drivers, you may specify a
+    | connection that should be used to manage these sessions. This should
+    | correspond to a connection in your database configuration options.
+    |
+    */
+
+    'connection' => env('SESSION_CONNECTION', null),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Database Table
+    |--------------------------------------------------------------------------
+    |
+    | When using the "database" session driver, you may specify the table we
+    | should use to manage the sessions. Of course, a sensible default is
+    | provided for you; however, you are free to change this as needed.
+    |
+    */
+
+    'table' => 'sessions',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Cache Store
+    |--------------------------------------------------------------------------
+    |
+    | When using the "apc", "memcached", or "dynamodb" session drivers you may
+    | list a cache store that should be used for these sessions. This value
+    | must match with one of the application's configured cache "stores".
+    |
+    */
+
+    'store' => env('SESSION_STORE', null),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Sweeping Lottery
+    |--------------------------------------------------------------------------
+    |
+    | Some session drivers must manually sweep their storage location to get
+    | rid of old sessions from storage. Here are the chances that it will
+    | happen on a given request. By default, the odds are 2 out of 100.
+    |
+    */
+
+    'lottery' => [2, 100],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Cookie Name
+    |--------------------------------------------------------------------------
+    |
+    | Here you may change the name of the cookie used to identify a session
+    | instance by ID. The name specified here will get used every time a
+    | new session cookie is created by the framework for every driver.
+    |
+    */
+
+    'cookie' => env(
+        'SESSION_COOKIE',
+        Str::slug(env('APP_NAME', 'laravel'), '_') . '_session'
+    ),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Cookie Path
+    |--------------------------------------------------------------------------
+    |
+    | The session cookie path determines the path for which the cookie will
+    | be regarded as available. Typically, this will be the root path of
+    | your application but you are free to change this when necessary.
+    |
+    */
+
+    'path' => '/',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Session Cookie Domain
+    |--------------------------------------------------------------------------
+    |
+    | Here you may change the domain of the cookie used to identify a session
+    | in your application. This will determine which domains the cookie is
+    | available to in your application. A sensible default has been set.
+    |
+    */
+
+    'domain' => env('SESSION_DOMAIN', null),
+
+    /*
+    |--------------------------------------------------------------------------
+    | HTTPS Only Cookies
+    |--------------------------------------------------------------------------
+    |
+    | By setting this option to true, session cookies will only be sent back
+    | to the server if the browser has a HTTPS connection. This will keep
+    | the cookie from being sent to you if it can not be done securely.
+    |
+    */
+
+    'secure' => env('SESSION_SECURE_COOKIE', false),
+
+    /*
+    |--------------------------------------------------------------------------
+    | HTTP Access Only
+    |--------------------------------------------------------------------------
+    |
+    | Setting this value to true will prevent JavaScript from accessing the
+    | value of the cookie and the cookie will only be accessible through
+    | the HTTP protocol. You are free to modify this option if needed.
+    |
+    */
+
+    'http_only' => true,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Same-Site Cookies
+    |--------------------------------------------------------------------------
+    |
+    | This option determines how your cookies behave when cross-site requests
+    | take place, and can be used to mitigate CSRF attacks. By default, we
+    | do not enable this as other CSRF protection services are in place.
+    |
+    | Supported: "lax", "strict"
+    |
+    */
+
+    'same_site' => null,
+
+];

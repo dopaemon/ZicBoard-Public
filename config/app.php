@@ -1,123 +1,241 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-LgLFhess3V8=
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Name
+    |--------------------------------------------------------------------------
+    |
+    | This value is the name of your application. This value is used when the
+    | framework needs to place the application's name in a notification or
+    | any other location as required by the application or its packages.
+    |
+    */
+
+    'name' => env('APP_NAME', 'Laravel'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Environment
+    |--------------------------------------------------------------------------
+    |
+    | This value determines the "environment" your application is currently
+    | running in. This may determine how you prefer to configure various
+    | services the application utilizes. Set this in your ".env" file.
+    |
+    */
+
+    'env' => env('APP_ENV', 'production'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Debug Mode
+    |--------------------------------------------------------------------------
+    |
+    | When your application is in debug mode, detailed error messages with
+    | stack traces will be shown on every error that occurs within your
+    | application. If disabled, a simple generic error page is shown.
+    |
+    */
+
+    'debug' => env('APP_DEBUG', false),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application URL
+    |--------------------------------------------------------------------------
+    |
+    | This URL is used by the console to properly generate URLs when using
+    | the Artisan command line tool. You should set this to the root of
+    | your application so that it is used when running Artisan tasks.
+    |
+    */
+
+    'url' => env('APP_URL', 'http://localhost'),
+
+    'asset_url' => env('ASSET_URL', null),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Timezone
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify the default timezone for your application, which
+    | will be used by the PHP date and date-time functions. We have gone
+    | ahead and set this to a sensible default for you out of the box.
+    |
+    */
+
+    'timezone' => 'Asia/Shanghai',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Locale Configuration
+    |--------------------------------------------------------------------------
+    |
+    | The application locale determines the default locale that will be used
+    | by the translation service provider. You are free to set this value
+    | to any of the locales which will be supported by the application.
+    |
+    */
+
+    'locale' => 'zh-CN',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application Fallback Locale
+    |--------------------------------------------------------------------------
+    |
+    | The fallback locale determines the locale to use when the current one
+    | is not available. You may change the value to correspond to any of
+    | the language folders that are provided through your application.
+    |
+    */
+
+    'fallback_locale' => 'zh-CN',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Faker Locale
+    |--------------------------------------------------------------------------
+    |
+    | This locale will be used by the Faker PHP library when generating fake
+    | data for your database seeds. For example, this will be used to get
+    | localized telephone numbers, street address information and more.
+    |
+    */
+
+    'faker_locale' => 'zh-CN',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Encryption Key
+    |--------------------------------------------------------------------------
+    |
+    | This key is used by the Illuminate encrypter service and should be set
+    | to a random, 32 character string, otherwise these encrypted strings
+    | will not be safe. Please do this before deploying an application!
+    |
+    */
+
+    'key' => env('APP_KEY'),
+
+    'cipher' => 'AES-256-CBC',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Autoloaded Service Providers
+    |--------------------------------------------------------------------------
+    |
+    | The service providers listed here will be automatically loaded on the
+    | request to your application. Feel free to add your own services to
+    | this array to grant expanded functionality to your applications.
+    |
+    */
+
+    'providers' => [
+
+        /*
+         * Laravel Framework Service Providers...
+         */
+        Illuminate\Auth\AuthServiceProvider::class,
+        Illuminate\Broadcasting\BroadcastServiceProvider::class,
+        Illuminate\Bus\BusServiceProvider::class,
+        Illuminate\Cache\CacheServiceProvider::class,
+        Illuminate\Foundation\Providers\ConsoleSupportServiceProvider::class,
+        Illuminate\Cookie\CookieServiceProvider::class,
+        Illuminate\Database\DatabaseServiceProvider::class,
+        Illuminate\Encryption\EncryptionServiceProvider::class,
+        Illuminate\Filesystem\FilesystemServiceProvider::class,
+        Illuminate\Foundation\Providers\FoundationServiceProvider::class,
+        Illuminate\Hashing\HashServiceProvider::class,
+        Illuminate\Mail\MailServiceProvider::class,
+        Illuminate\Notifications\NotificationServiceProvider::class,
+        Illuminate\Pagination\PaginationServiceProvider::class,
+        Illuminate\Pipeline\PipelineServiceProvider::class,
+        Illuminate\Queue\QueueServiceProvider::class,
+        Illuminate\Redis\RedisServiceProvider::class,
+        Illuminate\Auth\Passwords\PasswordResetServiceProvider::class,
+        Illuminate\Session\SessionServiceProvider::class,
+        Illuminate\Translation\TranslationServiceProvider::class,
+        Illuminate\Validation\ValidationServiceProvider::class,
+        Illuminate\View\ViewServiceProvider::class,
+
+        /*
+         * Package Service Providers...
+         */
+
+        /*
+         * Application Service Providers...
+         */
+        App\Providers\AppServiceProvider::class,
+        App\Providers\AuthServiceProvider::class,
+        // App\Providers\BroadcastServiceProvider::class,
+        App\Providers\EventServiceProvider::class,
+        App\Providers\HorizonServiceProvider::class,
+        App\Providers\RouteServiceProvider::class,
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Class Aliases
+    |--------------------------------------------------------------------------
+    |
+    | This array of class aliases will be registered when this application
+    | is started. However, feel free to register as many as you wish as
+    | the aliases are "lazy" loaded so they don't hinder performance.
+    |
+    */
+
+    'aliases' => [
+
+        'App' => Illuminate\Support\Facades\App::class,
+        'Arr' => Illuminate\Support\Arr::class,
+        'Artisan' => Illuminate\Support\Facades\Artisan::class,
+        'Auth' => Illuminate\Support\Facades\Auth::class,
+        'Blade' => Illuminate\Support\Facades\Blade::class,
+        'Broadcast' => Illuminate\Support\Facades\Broadcast::class,
+        'Bus' => Illuminate\Support\Facades\Bus::class,
+        'Cache' => Illuminate\Support\Facades\Cache::class,
+        'Config' => Illuminate\Support\Facades\Config::class,
+        'Cookie' => Illuminate\Support\Facades\Cookie::class,
+        'Crypt' => Illuminate\Support\Facades\Crypt::class,
+        'DB' => Illuminate\Support\Facades\DB::class,
+        'Eloquent' => Illuminate\Database\Eloquent\Model::class,
+        'Event' => Illuminate\Support\Facades\Event::class,
+        'File' => Illuminate\Support\Facades\File::class,
+        'Gate' => Illuminate\Support\Facades\Gate::class,
+        'Hash' => Illuminate\Support\Facades\Hash::class,
+        'Lang' => Illuminate\Support\Facades\Lang::class,
+        'Log' => Illuminate\Support\Facades\Log::class,
+        'Mail' => Illuminate\Support\Facades\Mail::class,
+        'Notification' => Illuminate\Support\Facades\Notification::class,
+        'Password' => Illuminate\Support\Facades\Password::class,
+        'Queue' => Illuminate\Support\Facades\Queue::class,
+        'Redirect' => Illuminate\Support\Facades\Redirect::class,
+        'Redis' => Illuminate\Support\Facades\Redis::class,
+        'Request' => Illuminate\Support\Facades\Request::class,
+        'Response' => Illuminate\Support\Facades\Response::class,
+        'Route' => Illuminate\Support\Facades\Route::class,
+        'Schema' => Illuminate\Support\Facades\Schema::class,
+        'Session' => Illuminate\Support\Facades\Session::class,
+        'Storage' => Illuminate\Support\Facades\Storage::class,
+        'Str' => Illuminate\Support\Str::class,
+        'URL' => Illuminate\Support\Facades\URL::class,
+        'Validator' => Illuminate\Support\Facades\Validator::class,
+        'View' => Illuminate\Support\Facades\View::class,
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | V2board version
+    |--------------------------------------------------------------------------
+    |
+    | The only modification by laravel config
+    |
+    */
+    'version' => '1.8.0'
+];

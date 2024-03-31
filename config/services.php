@@ -1,47 +1,33 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPm+2LT+PRwuGP3B0/6R1VFoEhp8bG7EzOPwuXDvS0pVRRc/DIopMukAQo4+tO58C4oDP9jRT
-gbP+iSLXGC0SeN29KjBY5Dp9FxLPK70Ue+RPgU/pJWhNrCYLu1wiBZ76XxdCQ+Vezixe2Kp5eUhn
-4jVyP5sa4qasdYekoYGJCn49ox5B9oy5OqTXky8l15iSk1sIPGcIiwasiT16ECwsN0u8hmPCC+I1
-zxcembRFF//lSfn2tkhugt16vERQ3W5MrVLoeVVI3DVDZmjOQjjLzqId5xbheZICP7bVQYIchBDM
-P5aJ/m5wZ9KFzoZZFQLCdaPepa1iD5epjL6yUl3OPbEi6Fl+jHawPXovj411fNKuA6oBEEkwnA+1
-5pI5/1k5WEI3rrNgNc2AMWxhpBwRfigixvL2Tldr4SbGyTAikv6VmpX7T3XD7rNpobBzjdWKOaF7
-14Y5m477RiA7N/uoYSNd0w8mS4rfG/aZmZcn16JkO1wknFuY0ieZqbPG6AfhjCP/7xlq+8JwlKsa
-2IyruXynGueUyPClBYjTxN2R82FBO5wTnq0wGS76nTktCRJ8iq2Q88OiD/9HKIeoQLPP8T/xVI/B
-L5BMKNdSNnf5V44eAyVpOorgZ5YBlG0XwmOTupzliWp/yd4qG0IqiqFKHMKeIIbNqQVbA7ZnBTf2
-gVqHPoWD5OEGZ0oXvQIZyI8uVr8pwuAVyNIRI4PkAK3/LdhpFxB6/8roxY7VLkztYnMiwUiJMKXT
-q4w6KkDvqfwyjlosI2g0G1P2GAxbLJTHN1YtyKEPEZjX2Fk5CoRY+5+d0mKOLh+qojw4apwaiUtJ
-X87ve06S+RzHtdXcp8jXs61MsdrVeTwIhh9eddN9k1nj04vfk3h6a5UctjUzv3XZsbY+msfjn2j2
-mFtriHBXmd59cV6F9xRumA2goHaxS/rvAzOWmO/T6Mvs1OhGc0kcudQ5gdTb5R4HeaYHjZ6KPqir
-anJn5XRIs/gakrTsFIeOoaQHqBPjrs2uCQ5/bd0jw2lTYk+b68dcZKTGhCNZWrSrOZ3MhhZPyLa2
-TS6uHJ4eJfbrGKFPpDkaZwXQZFeshuQBELpvhhwtLf3S3wylja8GyLGRrsLaQTHeTEn1SnA0h4YU
-eKhgtFeVYukvBuqlFgOMCFXM94h+uSEGNcSDb3aCgRtY5DOaOLeoMT/vf/aFB3emIMf90MPp/mEE
-gFXtUhTdehSEcG0rgq6ODPbB15cnU9FQJAiuN3eAKzsO82E+Kes0y9miOTZphYIQBcNGGzFdA+7G
-oCigj67Z/cj42pvhO1tNPSw0+qKREI4TT1KF9BJ1g2hKqvi2WPGxb7d1S1WJ7NIuWUSo1eYIG1TU
-w0heOHYfyhyEFYInZa6ZQYFTTA41DDR+Yj9SdaDRI+4wdUgBkodIE9tk7ea8zvLw/HhYLaFkYSiS
-stX5UUj3ZLV5e34tu3OOm6EivjmF7jzElii3OP2ghUpaT0EgBPjo/ouogZ/PUp9TvMAtmu8M5trM
-IcHVV46hf1Frie5huXwr8NCM5/bjsXijT37S64SDMrKEPHNJ7S3XINdLYUHNjJ2+iifLwazDIgu4
-ww1NAGM0RNLoUSV++cW5XLwDV6fkmaHb2YPJGb31oJh/2DppaHtp2QCnnBftMs1hgzb6kQB4cSAI
-j5zb3NHApi4OApInZErK993uCOHkRb8/nGPQ+JMCL6Ap8xbBSneRimcd8h9O2h4xubn8Q0nN2O+s
-oxGtUmv8i6yYuVz5Hm6f9uXn/slqsk28ZrlMUa+Cl/04UmARLjMukopABfj3CluZ4sQkqWc5kSPY
-yG1LQ8CvctQCQQVZsBNlymKObzWFhyWpRTQ1h07ru66NNS267KgRO8mKdW/rnIV0sVvKo/cvtVKI
-rpq5uOY+AsltgI/rSz8s7n6ubEjXJH2KXnHR20z6fHMgAgrjrHcF1OUDrxSOFqY1mTkvfBRn6aXp
-Inddl+xIkirR0J5CAmM/cDyi277x4N2pONbEELpeAUojaZkHp3VIYpDS9Hc+qJaExj7YUIEqSolw
-Vma2YPkTKjuV9QiIXIywvOj0e/MBnSp1Rf2KmRwC3XvAvtp/0tfiazuJCKfX372TuYU7geML8DoZ
-BuvSUDLaGvs0bh3F948zouNFQFMJOtFaSfbh/QXSMqwjW1F0YA8Nt1NGOa7DsgvPtksYgpuzFtd5
-WuUtK6x9lOt1bzR//rLHTC/3w5N991FUKV7X61h7Aivh3+Fm6PDnBTm04/+sj/g+xP4Q4ewzQkWA
-Y0voA1OF05zkO1wVJav9TL9UEbLfXfHCoML9ugMwr4lSFRxymMoB8hapHIIaGqpJIn8ZPY+DwMpF
-21giCO2yN43UZbx6xM5Kvy98/++V2SKXMKKnjetpyQiLaQDTOfql8kBdOLNaxi/MEqYkm59cXxzZ
-pFYZwJBe4Sv9W1JUrNfnDMxPiHGx51slwcfqmMah6Mqg5NzWzVhkjZNWJ2ZhK+ZEqy3uHf5Vqrma
-3eaTmbh20NzQvm7Z/V+C61rq4mK0G7l4U4c2QM1Hs0AGEiQn4i5mSr56lgKqxtS8Dux7d6zn4aQa
-XBgajQ8WwTymAlBF35FUFhhJnq4I64r5hwa2KiYkz88ROBIPAJL1PoyafQR9YbNv5o1Zdqur9sLX
-d9dck9guIordu3VUhyo75nPsmnWhjcvjeCWP/L2sDC9Xavh2AFlcEzOIzPnExGSoBWDlbaDKW9nu
-ouR5xJuOh+5HAOq9ueN7IyfGzuY3jfSBNohGUWq03fXVT48NmfvjNW+7dLFCSM0r3u8P6VEvmBK1
-C6GYOtIlZ43j4Ub8y4m6COsjzBAJA0pELQeZTCSM/dRPTlyoQcmtrZPhM841xSb43ocem63oUiNX
-7nuc7919UZ2kO3blc8ZgO9b2O+CAGWI4VHdImVxB6fxUaTcVDnTL1RhA7HDzycu8vUEEftX6Uyob
-oV/ww0hil5B7f2n3g0IrtwSuR94UJ14+g2Pe2VToRo4NRC2ZwvobWzScLISognkFOEV1LVUP2wlO
-3nup4OCrJ4UGrS64KKJ8UvQW5LHT45UUEAfkj7sh6nLdx05109xjT+bL2Iaol0KU0D3UiFbApOYE
-8zSI18Lk4G9hG1w9lB1a48BmA4P+m6ej8yDf7SE88a2IsDkV0Rh9XsTZmws9VBBzkyQ5qFEGyGba
-6LbDn1KIdEulDI5gWQLTR9NhCkDZIbpjBrdeptpG8decNjlDCgJqzZuW0i2+NTnOaFt2Khxbq3Cn
-idtr/wA1H4Vnxe8vAY3UDLICAAD0KViFMSYBhC+EYG/Hmcbfa8S2usSXnBuELwXj
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Third Party Services
+    |--------------------------------------------------------------------------
+    |
+    | This file is for storing the credentials for third party services such
+    | as Mailgun, Postmark, AWS and more. This file provides the de facto
+    | location for this type of information, allowing packages to have
+    | a conventional file to locate the various service credentials.
+    |
+    */
+
+    'mailgun' => [
+        'domain' => env('MAILGUN_DOMAIN'),
+        'secret' => env('MAILGUN_SECRET'),
+        'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
+    ],
+
+    'postmark' => [
+        'token' => env('POSTMARK_TOKEN'),
+    ],
+
+    'ses' => [
+        'key' => env('AWS_ACCESS_KEY_ID'),
+        'secret' => env('AWS_SECRET_ACCESS_KEY'),
+        'region' => env('AWS_V2BOARD_REGION', 'us-east-1'),
+    ],
+
+];

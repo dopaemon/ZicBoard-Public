@@ -1,80 +1,191 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Support\Str;
+use Linfo\Linfo;
+
+$lInfo = new Linfo();
+$parser = $lInfo->getParser();
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Horizon Domain
+    |--------------------------------------------------------------------------
+    |
+    | This is the subdomain where Horizon will be accessible from. If this
+    | setting is null, Horizon will reside under the same domain as the
+    | application. Otherwise, this value will serve as the subdomain.
+    |
+    */
+
+    'domain' => null,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Horizon Path
+    |--------------------------------------------------------------------------
+    |
+    | This is the URI path where Horizon will be accessible from. Feel free
+    | to change this path to anything you like. Note that the URI will not
+    | affect the paths of its internal API that aren't exposed to users.
+    |
+    */
+
+    'path' => 'monitor',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Horizon Redis Connection
+    |--------------------------------------------------------------------------
+    |
+    | This is the name of the Redis connection where Horizon will store the
+    | meta information required for it to function. It includes the list
+    | of supervisors, failed jobs, job metrics, and other information.
+    |
+    */
+
+    'use' => 'default',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Horizon Redis Prefix
+    |--------------------------------------------------------------------------
+    |
+    | This prefix will be used when storing all Horizon data in Redis. You
+    | may modify the prefix when you are running multiple installations
+    | of Horizon on the same server so that they don't have problems.
+    |
+    */
+
+    'prefix' => env(
+        'HORIZON_PREFIX',
+        Str::slug(env('APP_NAME', 'laravel'), '_').'_horizon:'
+    ),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Horizon Route Middleware
+    |--------------------------------------------------------------------------
+    |
+    | These middleware will get attached onto each Horizon route, giving you
+    | the chance to add your own middleware to this list or change any of
+    | the existing middleware. Or, you can simply stick with this list.
+    |
+    */
+
+    'middleware' => ['admin'],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Queue Wait Time Thresholds
+    |--------------------------------------------------------------------------
+    |
+    | This option allows you to configure when the LongWaitDetected event
+    | will be fired. Every connection / queue combination may have its
+    | own, unique threshold (in seconds) before this event is fired.
+    |
+    */
+
+    'waits' => [
+        'redis:default' => 60,
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Job Trimming Times
+    |--------------------------------------------------------------------------
+    |
+    | Here you can configure for how long (in minutes) you desire Horizon to
+    | persist the recent and failed jobs. Typically, recent jobs are kept
+    | for one hour while all failed jobs are stored for an entire week.
+    |
+    */
+
+    'trim' => [
+        'recent' => 60,
+        'pending' => 60,
+        'completed' => 60,
+        'recent_failed' => 10080,
+        'failed' => 10080,
+        'monitored' => 10080,
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Metrics
+    |--------------------------------------------------------------------------
+    |
+    | Here you can configure how many snapshots should be kept to display in
+    | the metrics graph. This will get used in combination with Horizon's
+    | `horizon:snapshot` schedule to define how long to retain metrics.
+    |
+    */
+
+    'metrics' => [
+        'trim_snapshots' => [
+            'job' => 24,
+            'queue' => 24,
+        ],
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Fast Termination
+    |--------------------------------------------------------------------------
+    |
+    | When this option is enabled, Horizon's "terminate" command will not
+    | wait on all of the workers to terminate unless the --wait option
+    | is provided. Fast termination can shorten deployment delay by
+    | allowing a new instance of Horizon to start while the last
+    | instance will continue to terminate each of its workers.
+    |
+    */
+
+    'fast_termination' => false,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Memory Limit (MB)
+    |--------------------------------------------------------------------------
+    |
+    | This value describes the maximum amount of memory the Horizon worker
+    | may consume before it is terminated and restarted. You should set
+    | this value according to the resources available to your server.
+    |
+    */
+
+    'memory_limit' => 32,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Queue Worker Configuration
+    |--------------------------------------------------------------------------
+    |
+    | Here you may define the queue worker settings used by your application
+    | in all environments. These supervisors and settings handle all your
+    | queued jobs and will be provisioned by Horizon during deployment.
+    |
+    */
+
+    'environments' => [
+        'local' => [
+            'V2board' => [
+                'connection' => 'redis',
+                'queue' => [
+                    'order_handle',
+                    'traffic_fetch',
+                    'stat',
+                    'send_email',
+                    'send_email_mass',
+                    'send_telegram',
+                ],
+                'balance' => 'auto',
+                'minProcesses' => 1,
+                'maxProcesses' => (int)ceil($parser->getRam()['total'] / 1024 / 1024 / 1024 * 6),
+                'tries' => 1,
+                'balanceCooldown' => 3,
+            ],
+        ],
+    ],
+];
